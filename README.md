@@ -18,5 +18,3 @@ S.No | model |	Root Mean Squared Error |	Accuracy on Traing set |	Accuracy on Te
 7 |	XGBClassifier |	0.141090 |	100.000000 |	98.009368
 8 |	RandomForestClassifier |	0.141090 |	100.000000 |	98.009368
 
-![F1Scores](https://github.com/KhuranaAksh/Loan-Approval-Classification/assets/50616556/59734c14-9e0b-41cc-ba93-35c31821248e)
-
